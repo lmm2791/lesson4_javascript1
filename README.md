@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+June 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Lynn Masimore
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This project is a form where the user enters their monthly expenses in dollars, clicks a button, and the program converts their monthly expeness to a percentage of the total expenses.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://lmm2791.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. We learned naming conventions, grammar and syntax in javascript. It's going to take a lot of practice to get proficient!
+2. We learned about proper placement of scripts in the html and advantages/disadvantages of each type of placement (head, body, separate file).
+3. We learned to stay consistent with declaring our variables, especially that javascript is case sensitive.
 
